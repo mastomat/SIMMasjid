@@ -1,0 +1,1429 @@
+@media (max-width: 1925px) {
+.course-inner .sec-title-inner > p {display: none;}
+
+}
+
+
+@media (max-width: 1605px) {
+header.style1 nav {
+  flex: 0 0 65rem;
+  max-width: 65rem;
+}
+.time-wrap, 
+.course-wrap {padding: 5rem 11%;}
+.time-list2 > li {padding: 2.5rem 2rem;}
+.logo-menu-wrap.v3 .container {max-width: 63.4rem;}
+.pillars-wrap2 {padding: 5rem;}
+.sec-title.v2.left-icon .sec-title-inner > p {max-width: 90%;}
+.pillar-box2 > span {
+  height: 4rem;
+  width: 4rem;
+  line-height: 4rem;
+  font-size: 1.8rem;
+}
+.pillar-box2 {padding-left: 5.6rem;}
+.pillar-box2 > h3 {font-size: 1.5rem;}
+.pillar-btn .thm-btn {padding: .9375rem 2.5rem;}
+.team-wrap2-inner {padding: 5rem;}
+.team-inner2-wrap {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.feat-wrap .feat-caro2 ul.slick-dots {left: 25.6rem;}
+.sermon-video {min-width: calc(100% + 13.5rem);}
+
+
+}
+
+@media (min-width: 1501px) and (max-width: 1560px) {
+.logo-menu-wrap.v3 .container {max-width: 61.7rem;}
+.pillars-wrap2 {padding: 5rem 5%;}
+
+
+}
+
+@media (min-width: 1450px) and (max-width: 1500px) {
+.logo-menu-wrap.v3 .container {max-width: 60.4rem;}
+.pillars-wrap2 {padding: 5rem 5%;}
+
+
+}
+
+
+@media (max-width: 1445px) {
+header.style1 nav {
+  flex: 0 0 calc(100% - 26.5625rem);
+  max-width: calc(100% - 26.5625rem);
+  padding-left: 5rem;
+}
+.wide-sec {
+  width: calc(100% + 12rem);
+  margin-left: -6rem;
+}
+.serv-box {padding: 3.125rem 2rem;}
+.time-wrap, 
+.course-wrap {padding: 5rem 9%;}
+.time-list2 > li {font-size: 1.125rem;}
+.time-list2 > li span {font-size: .9375rem;}
+.logo-menu-wrap.v3 .container {max-width: 58.4rem;}
+.feat-wrap .feat-caro2 ul.slick-dots {left: 21rem;}
+.hlf-bg {max-width: 28rem;}
+.quote-pillars-wrap > div.row > div.col-lg-5 {
+  flex: 0 0 40rem;
+  max-width: 40rem;
+}
+.quote-pillars-wrap > div.row > div.col-lg-7 {
+  flex: 0 0 calc(100% - 40rem);
+  max-width: calc(100% - 40rem);
+}
+.team-inner2.res-row {overflow-x: auto;}
+.team-inner2.res-row > .row {flex-wrap: nowrap;}
+.team-inner2.res-row > .row > div.col-lg-4 {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+.team-wrap2-inner {padding: 4rem 5rem;}
+.sermon-video {min-width: calc(100% + 8.5rem);}
+
+
+}
+
+
+@media (max-width: 1370px) {
+header.style1 nav {padding-left: 2.375rem;}
+header.style1 .logo {
+  flex: 0 0 22rem;
+  max-width: 22rem;
+}
+header.style1 .logo + nav {
+  flex: 0 0 calc(100% - 22rem);
+  max-width: calc(100% - 22rem);
+}
+.wide-sec, 
+.wide-sec2 {
+  width: calc(100% + 10rem);
+  margin-left: -5rem;
+}
+.time-wrap, 
+.course-wrap {padding: 5rem 7%;}
+header.style2 .topbar, 
+.time-wrap2 {padding-left: 2rem;}
+.logo-menu-wrap.v2 {padding: 0 2rem;}
+.logo-menu-wrap.v3 .container {max-width: 56rem;}
+.feat-item.v3 > img {max-width: 70%;}
+.feat-item.v3 {
+  align-items: center;
+  min-height: initial;
+  max-height: initial;
+}
+.feat-wrap .feat-caro2 ul.slick-dots {left: 18.7rem;}
+.quote-pillars-wrap > div.row > div.col-lg-5 {
+  flex: 0 0 40%;
+  max-width: 40%;
+}
+.quote-pillars-wrap > div.row > div.col-lg-7 {
+  flex: 0 0 calc(100% - 40%);
+  max-width: calc(100% - 40%);
+}
+.sermon-video {min-width: calc(100% + 6.1rem);}
+
+
+}
+
+
+@media (max-width: 1290px) {
+nav > div > ul > li {
+  margin-right: 1.8rem;
+  font-size: 1.0625rem;
+}
+nav ul ul ul {
+  left: auto;
+  right: 100%;
+  -webkit-transform-origin: right;
+  -ms-transform-origin: right;
+  -o-transform-origin: right;
+  transform-origin: right;
+}
+.wide-sec, 
+.wide-sec2 {
+  width: calc(100% + 4rem);
+  margin-left: -2rem;
+}
+.serv-box {padding: 3.125rem 1.5rem;}
+.time-wrap, 
+.course-wrap {padding: 5rem 5%;}
+.time-inner {
+  flex: 0 0 auto;
+  max-width: 100%;
+}
+.time-list2 > li {padding: 2.9rem 1.6rem;}
+.logo-menu-wrap.v3 {padding-right: 1.25rem;}
+.logo-menu-wrap.v3 .logo {
+  flex: 0 0 18rem;
+  max-width: 18rem;
+}
+.feat-item.v3 .feat-cap-wrap {padding-left: 3rem;}
+.hlf-bg {max-width: 25rem;}
+.quote-wrap {padding: 3rem;}
+.pillars-wrap2 {padding: 5rem 3.5rem;}
+.team-wrap2-inner {padding: 4rem 3.5rem;}
+.sermon-video {min-width: calc(100% + 3.5rem);}
+
+
+}
+
+
+@media (max-width: 1210px) {
+.container {padding: 0 0.9375rem;max-width: 100%;}
+.container-fluid .container {padding: 0;}
+.wide-sec, 
+.wide-sec2 {
+  width: 100%;
+  margin-left: 0;
+}
+.time-title > p {
+  font-size: .9375rem;
+  line-height: 1.5;
+}
+.time-list2 > li {font-size: 1.0625rem;}
+.logo-menu-wrap.v3 {justify-content: space-between;}
+.logo-menu-wrap.v3 .container {
+  max-width: 68%;
+  margin: initial;
+}
+.feat-item.v3 > img {max-width: 60%;}
+.feat-item.v3 .feat-cap-wrap {padding-left: 5rem;}
+.feat-wrap .feat-caro2 ul.slick-dots {
+  left: 18.2rem;
+  bottom: 2rem;
+}
+.time-list3 {margin: 0;}
+.about-wrap3 {padding: 0;}
+.plyr-wrp.v3 {max-width: 100%;}
+.hlf-bg {max-width: 28%;}
+.pillars-wrap2 {padding: 5rem 2.5rem;}
+.course-wrap3 {padding: 0;}
+.team-wrap2-inner {padding: 1rem 2.5rem;}
+.team-wrap2 > div.row > div.col-lg-5 {
+  flex: 0 0 30rem;
+  max-width: 30rem;
+}
+.team-wrap2 > div.row > div.col-lg-7 {
+  flex: 0 0 calc(100% - 30rem);
+  max-width: calc(100% - 30rem);
+}
+.sermon-video {min-width: calc(100% + .9375rem);}
+.time-wrap, 
+.course-wrap {min-height: 40.6rem;}
+ul.time-list > li {padding-left: 1.75rem;}
+header.style1 .header-right,
+header.style3 .header-right {display: none;}
+
+
+}
+
+
+@media (min-width: 1051px) and (max-width: 1145px) {
+.cont-info {padding-left: 2rem;}
+
+
+}
+
+
+@media (max-width: 1070px) {
+header,
+.sticky-menu {display: none !important;}
+.rspn-hdr {display: block;}
+.feat-cap-wrap {
+  min-width: 100%;
+  max-width: 100%;
+  padding: 0 .9375rem;
+}
+.pt-140,
+.pt-150,
+.pt-155,
+.pt-165,
+.pt-170 {padding-top: 6rem;}
+.pb-140,
+.pb-150,
+.pb-155,
+.pb-165,
+.pb-170 {padding-bottom: 6rem;}
+.pt-90,
+.pt-100,
+.pt-110,
+.pt-120 {padding-top: 5rem;}
+.pb-90,
+.pb-100,
+.pb-110,
+.pb-120 {padding-bottom: 5rem;}
+.mt-100 {margin-top: 5rem;}
+.mb-100 {margin-bottom: 5rem;}
+.plyr-wrp {min-width: 100%;}
+.plyr-wrp > h3 {font-size: 1.5rem;}
+.cont-info {padding-left: 0;}
+.cont-info-list > li {font-size: 1.4rem;}
+.prod-info {padding: 4rem 5rem 4rem 2.5rem;}
+.prod-info .price, 
+.prod-detail-img .price {
+  font-size: 1.65rem;
+  padding: 1.5rem .9375rem;
+  max-width: 7rem;
+}
+.prod-caro > button.slick-arrow {
+  height: 3.8rem;
+  width: 3.8rem;
+  font-size: 1.2rem;
+}
+.prod-caro > button.slick-next {right: 3.8rem;}
+.about-inner {max-width: 70%;}
+.time-course-wrap > div.row > div {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.time-wrap, 
+.course-wrap {
+  padding: 5rem 15%;
+  min-height: initial;
+}
+.team-wrap.res-row {overflow-x: auto;}
+.team-wrap.res-row > .row {flex-wrap: nowrap;}
+.team-wrap.res-row > .row > div {
+  flex: 0 0 33.33334%;
+  max-width: 33.33334%;
+}
+.event-info {padding: 2.5rem;}
+.pillar-box > span {
+  height: 7.5rem;
+  width: 7.5rem;
+  line-height: 7.5rem;
+  font-size: 3.2rem;
+}
+.camp-info {
+  padding: 3rem 2.5rem 3.6rem 2.5rem;
+  max-width: 100%;
+}
+.blog-wrap > div.row > div:first-child .post-box, 
+.blog-wrap > div.row > div:nth-child(2) .post-box, 
+.blog-wrap > div.row > div:nth-child(3) .post-box, 
+.blog-wrap > div.row > div:nth-child(4) .post-box,
+.blog-wrap > div.row > div:nth-child(5) .post-box,
+.blog-wrap > div.row > div:nth-child(6) .post-box,
+.cont-info-wrap > div.row > div:first-child .cont-info-box-wrap,
+.cont-info-wrap > div.row > div:nth-child(2) .cont-info-box-wrap,
+.cont-info-wrap > div.row > div:last-child .cont-info-box-wrap {padding: 0;}
+.post-meta > li:not(:first-child) {padding-left: 2rem;}
+.sec-botm-rgt-mckp {right: 0;}
+.widget ul li {
+  font-size: .9375rem;
+  word-wrap: break-word;
+}
+.about-wrap2 {padding: 2rem 5rem 0;}
+.pack-wrap {padding: 0;}
+.pack-box {padding: 4rem 2.8rem 4.0625rem;}
+.sermon-info {padding: 2.5rem 2.2rem 3.4375rem;}
+.time-list2 > li {
+  font-size: 1rem;
+  padding: 2.5rem 1.2rem;
+}
+.time-list2 > li span {font-size: 14px;}
+.footer-data.v2 {padding: 0 5rem;}
+.month-donat-inner > h2 {font-size: 3rem;}
+.month-donat-inner > i {font-size: 5rem;}
+.facts-wrap > div.row > div:not(:first-child) .fact-box {padding-left: 0;}
+.pb-210 {padding-bottom: 10rem;}
+.urgent-donat-meta > li:not(:first-child) {margin-left: 0;}
+.feat-wrap.v3 {padding-top: 0;}
+.feat-item.v3 > img {max-width: 100%;}
+.feat-item.v3:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #000;
+  opacity: .7;
+}
+.feat-item.v3 .feat-cap-wrap {
+  padding-left: .9375rem;
+  text-align: center;
+}
+.feat-item.v3 .feat-cap.left-icon {padding-left: 0;}
+.feat-item.v3 .feat-cap.left-icon > i {
+  position: static;
+  font-size: 6rem;
+}
+.feat-item.v3 .feat-cap.left-icon > i + h2 {margin-top: 2rem;}
+.feat-wrap .feat-caro2 ul.slick-dots {
+  left: 0;
+  right: 0;
+  bottom: 4rem;
+}
+.time-list3 > li {padding: 2rem 1.7rem;}
+.about-wrap3 {margin-top: -4rem;}
+.quote-pillars-wrap > div.row > div, 
+.team-wrap2 > div.row > div.col-lg-5,
+.team-wrap2 > div.row > div.col-lg-7 {
+  flex: 0 0 100% !important;
+  max-width: 100% !important;
+}
+.quote-wrap {padding: 5rem 5rem 3rem;}
+.pillars-wrap2 {padding: 5rem 6rem;}
+.team-wrap2-inner {padding: 5rem 4rem;}
+.speaker-inner.res-row > .row > div.col-lg-4,
+.team-inner2.res-row > .row > div.col-lg-4 {
+  flex: 0 0 33.33334%;
+  max-width: 33.33334%;
+}
+.sec-title.v2 {margin-bottom: 3rem;}
+.donate-inner {padding: 0 2rem;}
+.social-links3 > a:not(:first-child) {margin-left: 2.2rem;}
+.newsletter-form {max-width: 100%;}
+.post-detail-info > h2 {max-width: 100%;}
+.share-tags-wrap > div + div {margin: 1rem 0 0;}
+.share-tags-wrap > div {
+  flex: 0 0 100%;
+  max-width: 100%;
+  flex-wrap: wrap;
+}
+.course-info3,
+.col-lg-4 .course-info3 {padding: 0 2.5rem 2.2rem;}
+.course-info3 > h3,
+.col-lg-4 .course-info3 > h3 {max-width: 100%;}
+.course-box3 > span,
+.col-lg-4 .course-box3 > span {
+  right: 2.5rem;
+  top: 2.3rem;
+}
+.services-detail-info {margin-top: 0;}
+.gallery-box.v2::before {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.event-detail-info {padding: 3.125rem 1.5rem 2.8125rem;}
+.prod-detail-info-wrap > div.row {align-items: initial !important;}
+.prod-detail-info {padding: 0;}
+.coupon-wrap {
+  flex: 0 0 65%;
+  max-width: 65%;
+  padding: 3rem;
+}
+.coupon-wrap + .cart-total {
+  flex: 0 0 35%;
+  max-width: 35%;
+}
+.coupon-inner > input {
+  flex: 0 0 calc(100% - 13rem);
+  max-width: calc(100% - 13rem);
+}
+.payment-method > button {min-width: initial;}
+
+
+
+}
+
+
+@media (min-width: 995px) and (max-width: 1080px) {
+.event-meta > li {font-size: 13px;}
+.event-meta > li:not(:first-child) {
+  padding-left: 1rem;
+  margin-left: 1rem;
+}
+
+}
+
+
+@media (max-width: 995px) {
+.res-row {overflow-x: auto;}
+.res-row > .row {flex-wrap: nowrap;}
+.feat-wrap ul.slick-dots {right: 2rem;}
+.pillar-box > span {
+  height: 6.3rem;
+  width: 6.3rem;
+  line-height: 6.3rem;
+  font-size: 2.8rem;
+  margin: 2rem 1.25rem;
+}
+.camp-img {
+  min-width: 100%;
+  margin-left: 0;
+}
+.plyr-wrp.overlap155 {margin-top: -5.3125rem;}
+.plyr:not(.v2):not(.v3):not(.v4) {padding: 2.5rem 2.5rem 2.35rem;}
+.cont-info-list > li:first-child {margin-bottom: 12px;}
+.cont-info-list > li:not(:first-child) {padding-left: 0;}
+.cont-info-list > li span {
+  font-size: 1.3rem;
+  height: 3rem;
+  width: 3rem;
+  flex: 0 0 3rem;
+  max-width: 3rem;
+  line-height: 3rem;
+}
+.cont-info-list > li span::before, 
+.cont-info-list > li span::after {
+  height: inherit;
+  width: inherit;
+}
+.pt-235 {padding-top: 12rem;}
+.pb-235 {padding-bottom: 12rem;}
+.pb-210 {padding-bottom: 8rem;}
+.event-sermon-wrap {padding: 0 15%;}
+.event-wrap2 {margin-bottom: 4rem;}
+.urgent-donat-info {padding-left: 2.2rem;}
+.time-wrap2 {padding-left: 0;}
+.time-title {
+  padding: 2rem 1rem;
+  text-align: center;
+}
+.time-list2 > li {
+  font-size: 1.125rem;
+  padding: 2.5rem;
+}
+.time-list2 > li span {font-size: 1rem;}
+.plyr-wrp.v2 h3 {width: 100%;}
+.about-wrap2 {padding: 2rem 0 0;}
+.pack-box {padding: 3rem 2.5rem;}
+.plyr-wrp.v3,
+.about-video {margin-bottom: 3rem;}
+.sidebar,
+.prod-detail-info,
+.cart-total-payment-wrap {margin-top: 3rem !important;}
+.hlf-bg {
+  max-width: 100%;
+  height: 20rem;
+}
+.learn-inner {
+  padding: 0;
+  margin-top: 3rem;
+}
+.pillars-wrap2,
+.team-wrap2-inner {padding: 5rem .9375rem;}
+.team-wrap2-inner {padding-bottom: 3rem;}
+.sponsor-inner {padding: 0;}
+.sponsor-title > h2 {max-width: 80%;}
+.donate-inner {padding: 0;}
+.donate-box-wrap {padding-left: 0;}
+.post-detail-info + .post-detail-desc > p:nth-of-type(2), 
+.post-detail-desc > p:nth-of-type(6) {margin-top: 1.875rem;}
+.mini-post-box {align-items: center;}
+.urgent-donat-meta > li:not(:first-child) {margin-left: 1.875rem;}
+.sermon-video {min-width: 100%;}
+.prod-detail-tabs {padding-left: 0;}
+.prod-detail-tabs ul.nav-tabs {
+  position: static;
+  max-width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.prod-detail-tabs ul.nav-tabs li.nav-item {
+  flex: 0 0 33.33334%;
+  max-width: 33.33334%;
+  text-align: center;
+  font-size: 1.125rem;
+}
+.prod-detail-tabs ul.nav-tabs li.nav-item a.nav-link {
+  margin-bottom: 0;
+  padding: .9375rem 2rem;
+}
+.prod-detail-tabs ul.nav-tabs li.nav-item a.nav-link:before {display: none;}
+.prod-detail-tabs .tab-content {padding: 3rem;}
+.contact-wrap,
+.cont-info-desc {padding: 0;}
+.contact-map {height: 25rem;}
+.social-links4 + .thm-btn {
+  margin-top: -7px;
+  margin-left: 1rem;
+  vertical-align: middle;
+}
+
+
+}
+
+
+@media (max-width: 850px) {
+.feat-caro {max-height: 40rem;}
+.feat-item {
+  min-height: 40rem;
+  max-height: 40rem;
+}
+.feat-wrap.v2 .feat-caro {max-height: 38rem;}
+.feat-item.v2 {
+  min-height: 38rem;
+  max-height: 38rem;
+}
+.feat-wrap.v1 .feat-cap-wrap {margin-top: -3rem;}
+.feat-item.v2 .feat-cap-wrap {
+  padding-left: .9375rem;
+  margin-top: -2rem;
+}
+.feat-cap.left-icon {
+  text-align: center;
+  padding-left: 0;
+  max-width: 100%;
+}
+.feat-cap.left-icon > i {
+  top: auto;
+  font-size: 3.125rem;
+  position: static;
+  display: inline-block;
+}
+.feat-cap.left-icon > i + h2 {margin-top: .9375rem;}
+.event-sermon-wrap {padding: 0 10%;}
+.about-inner {max-width: 100%;}
+.sec-title-inner > h1 {font-size: 2.9rem;}
+.about-inner > h2, 
+.about-inner2 > h2,
+.about-inner3 > h2,
+.about-inner4 > h2,
+.sec-title-inner > h2,
+.sec-title.v2.left-icon .sec-title-inner > h2,
+.donate-title > h2,
+.get-started-title > h2 {
+  font-size: 2.7rem;
+  line-height: 1.25;
+}
+.team-wrap.res-row > .row > div,
+.speaker-inner.res-row > .row > div.col-lg-4,
+.team-inner2.res-row > .row > div.col-lg-4 {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+.time-list2 > li {padding: 2.5rem 1.8rem;}
+.fact-inner > h3 {font-size: 2.8rem;}
+.fact-inner > h5 {font-size: 1.125rem;}
+.footer-data.v2 {padding: 0;}
+.feat-item.v3 .feat-cap-wrap {
+  position: static !important;
+  -webkit-transform: translate(0);
+  -ms-transform: translate(0);
+  -o-transform: translate(0);
+  transform: translate(0);
+  padding: 4rem 1.875rem 10rem;
+}
+.feat-wrap .feat-caro2 ul.slick-dots {bottom: 6rem;}
+.time-list3 > li {
+  flex: 0 0 33.33334%;
+  max-width: 33.33334%;
+}
+.learn-img {padding-right: 0;}
+.pt-250,
+.pt-280 {padding-top: 12rem;}
+.pb-250,
+.pb-280 {padding-bottom: 12rem;}
+.pagination-wrap.mt-20 {margin-top: -1rem;}
+.pagination-wrap.mt-40 {margin-top: 1rem;}
+.pagination-wrap.mt-50,
+.pagination-wrap.mt-60,
+.pagination-wrap.mt-70,
+.pagination-wrap.mt-80 {margin-top: 3rem;}
+.post-detail-info {padding-left: 8.5rem;}
+.sermon-detail-info-wrap > div.row > div {
+  flex: 0 0 100% !important;
+  max-width: 100% !important;
+}
+.sermon-detail-info-wrap > div.row > div.order-md-1 {order: -1;}
+.plyr.v4 .player {padding: 1.875rem 6rem 1.875rem 34rem;}
+.plyr.v4 .player .info {left: 6.5rem;}
+.plyr.v4 .player .controls {left: 21.5rem;}
+.plyr.v4 .player .cover {left: 1.875rem;}
+.cart-total-list {padding: 1.875rem 2.2rem 1.125rem;}
+.cart-table tbody tr td.product-name h5 {max-width: 65%;}
+.team-detail-info-inner .social-links4 {
+  width: 100%;
+  flex-wrap: wrap;
+}
+.social-links4 + .thm-btn {margin: 2rem 0 0;}
+
+
+
+
+
+}
+
+
+@media (max-width: 770px) {
+.slick-slide .prod-box div[class^="col"] {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.feat-cap > h1 {font-size: 3.6rem;}
+.feat-cap > h2,
+.feat-item.v3 .feat-cap > h2 {font-size: 3.2rem;}
+.feat-item.v3 .feat-cap > h2 span {font-size: inherit;}
+.pillar-box > span {
+  height: 5.5rem;
+  width: 5.5rem;
+  line-height: 5.5rem;
+  font-size: 2.5rem;
+}
+.pillar-box > span + h3 {margin-top: 10px;}
+.pillar-box > h3 {font-size: 1.75rem;}
+.time-wrap, 
+.course-wrap {padding: 5rem 5%;}
+.time-list2 > li {
+  flex: 0 0 33.33334%;
+  max-width: 33.33334%;
+  text-align: center;
+}
+.video-quote-wrap {padding: 0;}
+.video-quote-wrap .quote-box {
+  position: relative !important;
+  max-width: 100%;
+}
+.video-box > a {margin-left: 0;}
+.event-sermon-wrap {padding: 0;}
+.fact-box > span + .fact-inner {
+  padding: 1.5625rem 0 0;
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.fact-box {
+  text-align: center;
+  justify-content: center;
+}
+.post-img2 {
+  max-width: 100%;
+  position: static !important;
+  width: 100%;
+}
+.post-info2 {
+  flex: 0 0 100%;
+  max-width: 100%;
+  margin: 0;
+}
+.blog-wrap2 + .view-more {margin-top: 2rem;}
+.widget-inner {max-width: 70%;}
+.bottom-inner {
+  justify-content: center !important;
+  text-align: center;
+}
+.bottom-inner > p + ul {margin-top: 1rem;}
+.pt-250,
+.pt-260,
+.pt-280 {padding-top: 10rem;}
+.pb-250,
+.pb-260,
+.pb-280 {padding-bottom: 10rem;}
+.post-date2 > span {font-size: 2rem;}
+.post-meta4 > span {padding: 13px 2px 8px;}
+.author-info, 
+.comment-detail {padding-right: 0;}
+.author-info > p, 
+.comment-detail > p {max-width: 100%;}
+.donation-detail-info-wrap .urgent-donat-info {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.donation-detail-info-wrap .thm-btn {
+  width: 100%;
+  max-width: 100%;
+  padding: 1.3rem 2.5rem;
+}
+.donation-detail-info-wrap .thm-btn i {display: none !important;}
+.course-info3 > h3 + .course-scholar {margin-top: 1rem;}
+.post-detail-info > h2,
+.course-detail-info-inner > h2 {
+  font-size: 1.6rem;
+  line-height: 1.4;
+}
+.course-detail-info > div {
+  flex: 0 0 63%;
+  max-width: 63%;
+}
+.course-detail-info > div:last-child {
+  flex: 0 0 calc(100% - 63%);
+  max-width: calc(100% - 63%);
+}
+.coupon-cart-total-wrap > div {
+  flex: 0 0 100% !important;
+  max-width: 100% !important;
+}
+.cart-table tbody tr td.product-name h5,
+.coupon-inner {max-width: 100%;}
+.cart-table thead tr th:first-child, 
+.cart-table tbody tr td:first-child {padding-left: 2rem;}
+.cart-table tbody tr td:first-child {
+  padding-right: 0;
+  width: 7.3rem;
+}
+.cart-table tbody tr td.product-name {padding-left: 0;}
+
+
+}
+
+
+@media (max-width: 767px) {
+.cont-form,
+.about-inner2 {margin-top: 3rem;}
+
+
+}
+
+
+@media (max-width: 730px) {
+.rspn-cnt {display: none;}
+.plyr.v4 .player {
+  padding: 1.875rem 1.875rem 5.5rem;
+  text-align: center;
+  justify-content: center;
+}
+.plyr.v4 .player .cover, 
+.plyr.v4 .player .info, 
+.plyr.v4 .player .controls {
+  position: static;
+  justify-content: center;
+}
+.plyr.v4 .player .info {
+  -webkit-transform: translate(0);
+  -ms-transform: translate(0);
+  -o-transform: translate(0);
+  transform: translate(0);
+  margin: 1.25rem 0 13px;
+}
+.plyr .player .controls {
+  flex: 0 0 100%;
+  max-width: 100%;
+  margin-top: 1.25rem;
+}
+.plyr.v4 .player .volume {
+  top: auto;
+  left: 0;
+  right: 0;
+  width: 100%;
+  max-width: initial;
+  line-height: initial;
+}
+.plyr.v4 .player .volume .volume-btn {line-height: 3.5rem;}
+.pillars-list > li {
+  flex: 0 0 25%;
+  max-width: 25%;
+}
+
+
+}
+
+
+@media (max-width: 576px) {
+.res-row,
+.team-wrap.res-row,
+.speaker-inner.res-row,
+.team-inner2.res-row {overflow-x: initial;}
+.res-row > .row,
+.team-wrap.res-row > .row,
+.speaker-inner.res-row > .row,
+.team-inner2.res-row > .row {flex-wrap: wrap;}
+.res-row > .row div[class^="col"],
+.team-wrap.res-row > .row > div ,
+.speaker-inner.res-row > .row > div.col-lg-4,
+.team-inner2.res-row > .row > div.col-lg-4 {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.feat-cap > h1 {font-size: 2.7rem;}
+.feat-cap > h2,
+.feat-item.v3 .feat-cap > h2 {
+  font-size: 2.5rem;
+  line-height: 1.2;
+}
+.thm-btn {
+  font-size: 1rem !important;
+  padding: 1rem 2.5rem !important;
+}
+.sec-title-inner > h1 {font-size: 2.7rem;}
+.about-inner > h2, 
+.about-inner2 > h2,
+.about-inner3 > h2,
+.about-inner4 > h2,
+.sec-title-inner > h2,
+.sec-title.v2.left-icon .sec-title-inner > h2,
+.sponsor-title > h2,
+.donate-title > h2,
+.get-started-title > h2 {font-size: 2.4rem;}
+p,
+.bottom-links > li,
+.styled-list > li,
+.sermon-info-list > li, 
+.services-info-list > li,
+.adt-info-list > li {
+  font-size: .9375rem !important;
+  line-height: 2 !important;
+}
+.widget,
+.footer-data.v3 .widget {margin-bottom: 2.5rem;}
+.widget .logo + p {margin-top: 1.6rem;}
+.widget-title {margin-bottom: 1.5rem;}
+.pt-235 {padding-top: 9rem;}
+.pb-235 {padding-bottom: 9rem;}
+.feat-wrap.v1 .feat-cap-wrap {margin-top: -4rem;}
+.feat-wrap ul.slick-dots {
+  right: 0;
+  left: 0;
+  justify-content: center;
+  width: auto;
+  display: flex;
+  top: auto;
+  bottom: 2rem;
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  -o-transform: translateY(0);
+  transform: translateY(0);
+  padding: 0 .9375rem;
+}
+.feat-wrap.v1 ul.slick-dots {bottom: 10rem;}
+.feat-wrap.v2 ul.slick-dots {bottom: 8rem;}
+.prod-info {padding: 7rem 2rem 4rem;}
+.prod-info .price, 
+.prod-detail-img .price {
+  right: auto;
+  left: 0;
+}
+ul.time-list > li {
+  padding: 1.25rem;
+  font-size: 1rem;
+}
+.time-box > span {font-size: 1.125rem;}
+.time-box > span i {font-size: 1.25rem;}
+.pillars-list > li {
+  flex: 0 0 33.33334%;
+  max-width: 33.33334%;
+}
+.serv-box2 {
+  background-color: #fff;
+  padding-bottom: 1.25rem;
+}
+.serv-box2:before {bottom: 1.25rem;}
+.month-donat-inner > p + a {margin-top: 2.5rem;}
+.team-info2 {padding: 0 2.5rem 3rem;}
+.donate-box-wrap {margin-top: 5rem;}
+.donate-title {text-align: center;}
+.donate-title > h2,
+.footer-data.v3 .widget p {max-width: 100%;}
+.sponsor-title > h2 {
+  max-width: 100%;
+  line-height: 1.3;
+}
+.sponsor-list > li {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+.sec-title.v2.left-icon .sec-title-inner > p {max-width: 100%;}
+.pillars-list2 > li {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+.pillars-list2 > li {padding-left: 1.875rem;}
+.quote-wrap {padding: 5rem .9375rem 3rem;}
+.sec-title.v2.left-icon .sec-title-inner {padding-left: 6rem;}
+.sec-title.v2.left-icon .sec-title-inner > i {font-size: 4rem;}
+.social-links3 > a:not(:first-child) {margin-left: 1.5rem;}
+.newsletter-form {padding-left: 4rem;}
+.newsletter-form > i {left: 0;}
+.about-wrap3 {margin-top: -3rem;}
+.feat-item.v3 .feat-cap-wrap {padding: 4rem .9375rem 10rem;}
+.course-info3, 
+.col-lg-4 .course-info3 {padding: 0 1.9rem 2rem;}
+.course-box3 > span, 
+.col-lg-4 .course-box3 > span {
+  right: 1.9rem;
+  top: 2rem;
+}
+.share-tags-wrap {padding: 1rem;}
+.author-box, 
+.comment {
+  justify-content: center;
+  text-align: center;
+  padding: 1.875rem;
+}
+.author-img + .author-info, 
+.comment-img + .comment-detail {
+  flex: 0 0 100%;
+  max-width: 100%;
+  padding: 1.325rem 0 0;
+}
+.author-info > small, 
+.comment-detail > small {display: block;}
+.author-info > h4 + small, 
+.comment-detail > h4 + small {margin: 10px 0 0;}
+ul.comments-list ul.children,
+.prod-detail-tabs ul.comments-list ul.children {padding-left: 0;}
+.prod-detail-tabs .comment-detail span.rate {
+  float: none;
+  display: inline-block;
+}
+.alignleft {
+  margin-right: 0;
+  width: 100%;
+}
+.alignright {
+  margin-left: 0;
+  width: 100%;
+}
+.team-detail-info {padding: 2.5rem 2rem;}
+.team-detail-info-list > li span {display: block;}
+.experties-list {margin-top: 1.5rem;}
+.team-detail-experties + .team-detail-desc {margin-top: 2.5rem;}
+.course-detail-info > div {
+  flex: 0 0 100% !important;
+  max-width: 100% !important;
+}
+.course-detail-info > div:last-child {
+  margin-top: 1.25rem;
+  text-align: initial;
+}
+.course-detail-info-bottom {padding: 1.25rem;}
+.services-detail-info > i {
+  height: 7rem;
+  width: 7rem;
+  line-height: 7rem;
+  font-size: 3.1rem;
+}
+.event-detail-info {padding: 3rem 2rem;}
+.event-detail-info > div {
+  padding: 0;
+  flex: 0 0 100% !important;
+  max-width: 100% !important;
+}
+.event-detail-info > div + div {margin-top: 1.875rem;}
+.event-booking-form-wrap {padding: 2.5rem 2rem 3rem;}
+.event-booking-form span.d-block {padding-left: 1.875rem;}
+.event-booking-form span.d-block input {
+  position: absolute;
+  left: 0;
+  top: 5px;
+}
+.sermons-btns-wrap + h3 {margin-top: 2.5rem;}
+.prod-detail-tabs .tab-content {padding: 2rem;}
+.prod-detail-tabs ul.nav-tabs li.nav-item {
+  flex: 0 0 100%;
+  max-width: 100%;
+  line-height: 1;
+}
+.prod-detail-tabs .tab-content .tab-pane > h3 {
+  font-size: 1.5rem;
+  padding-left: 3rem;
+}
+.prod-detail-tabs .tab-content .tab-pane > h3 i {font-size: 1.8rem;}
+.prod-detail-btns .thm-btn {min-width: auto;}
+.adt-info-list > li + li {margin-top: .9375rem;}
+.prod-detail-btns .thm-btn + .prod-btn {margin-left: 10px;}
+.cart-form {overflow: auto;}
+.cart-table {min-width: 130%;}
+.coupon-wrap {padding: 3rem 2rem;}
+.coupon-inner > input,
+.coupon-inner > button {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.coupon-inner > input + button {margin: 10px 0 0;}
+.about-title > h2 {
+  font-size: 2rem;
+  line-height: initial;
+}
+.plyr-wrp.v2 .plyr-inner {
+  width: 100%;
+  margin-left: 0;
+}
+.plyr.v2 {padding: 0;}
+.plyr.v2 .player {
+  justify-content: center;
+  padding: 2rem 2.5rem 5rem;
+}
+.plyr.v2 .player .cover {
+  position: static;
+  display: inline-block;
+}
+.plyr.v2 .player .controls {
+  left: 0;
+  position: static;
+  flex: 100%;
+  max-width: 100%;
+  justify-content: center;
+  padding: 1.25rem 0;
+}
+.plyr.v2 .player .volume {
+  top: auto;
+  left: 0;
+  max-width: 100%;
+  width: 100%;
+  flex: 0 0 100%;
+}
+.plyr.v2 .player .volume .volume-btn {line-height: 3.5rem;}
+.event-img2 {
+  flex: 0 0 8rem;
+  max-width: 8rem;
+}
+.event-img2 + .event-info2 {
+  padding-left: 1.4rem;
+  flex: 0 0 calc(100% - 8rem);
+  max-width: calc(100% - 8rem);
+}
+.event-meta > li:not(:first-child) {
+  padding-left: 12px;
+  margin-left: 12px;
+}
+.month-donat-inner > h2 br {display: none;}
+
+
+
+
+}
+
+
+@media (max-width: 490px) {
+.feat-cap > h1 {font-size: 2.5rem;}
+.feat-cap > h2 {font-size: 2.2rem;}
+.thm-btn {
+  font-size: .9375rem !important;
+  padding: 1rem 2.3rem !important;
+}
+.sec-title-inner > h1 {font-size: 2.4rem;}
+.about-inner > h2, 
+.about-inner2 > h2,
+.about-inner3 > h2,
+.about-inner4 > h2,
+.sec-title-inner > h2,
+.sec-title.v2.left-icon .sec-title-inner > h2,
+.sponsor-title > h2,
+.donate-title > h2,
+.get-started-title > h2,
+.feat-item.v3 .feat-cap > h2,
+.page-title-inner > h1,
+.sermon-detail-info > h2, 
+.services-detail-info > h2,
+.event-detail-info-inner h2,
+.cont-info-desc > h3,
+.team-info2 > h3 {font-size: 2.1rem;}
+.cont-info-desc > h3 {line-height: 1.3;}
+.sermon-detail-info > span, 
+.services-detail-info > span {font-size: 1rem;}
+.camp-info {
+  border-width: 10px;
+  padding: 2.5rem 2.1rem 3rem;
+}
+.camp-info > p + div {margin-top: 1.25rem;}
+.goal + a {margin-top: 2rem;}
+.camp-img > a {
+  font-size: 2.5rem;
+  height: 5rem;
+  width: 5rem;
+  line-height: 5rem;
+}
+.sec-title-inner > i {font-size: 2.1rem;}
+.sec-title.v2 .sec-title-inner > i {font-size: 2.5rem;}
+.sec-title-inner > p, 
+.sec-title.v2 .sec-title-inner > p {max-width: 100%;}
+.time-wrap, 
+.course-wrap {padding: 4rem .9375rem;}
+.plyr .player .volume {display: inline-flex !important;}
+.feat-wrap.v1 ul.slick-dots {bottom: 9rem;}
+.feat-wrap.v2 ul.slick-dots {bottom: 7rem;}
+.plyr .player .info {justify-content: center;}
+.about-title > h2 {
+  font-size: 2rem;
+  line-height: 1.4;
+  max-width: 100%;
+}
+.about-wrap2 {text-align: center;}
+.about-title .thm-btn {min-width: auto;}
+.about-inner2 {margin-top: 2.5rem;}
+.video-box > a, .about-video > a {
+  height: 4rem;
+  width: 4rem;
+  line-height: 3rem;
+  font-size: 1.2rem;
+}
+.quote-box {padding: 4.0625rem 2.2rem 3rem;}
+.quote-box::after {left: 2.2rem;}
+.event-list-box {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  justify-content: center;
+  text-align: center;
+}
+.event-img2 {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.event-img2 + .event-info2 {
+  flex: 0 0 100%;
+  max-width: 100%;
+  padding: 1.875rem 0 0;
+}
+.event-wrap2 {text-align: center;}
+.month-donat-inner > h2 {
+  font-size: 2.2rem;
+  line-height: 1.3;
+}
+.post-info2 {
+  background-color: transparent;
+  padding: 2.5rem 0 0 7rem;
+}
+.post-info2 > h3 {
+  font-size: 1.8rem;
+  line-height: 1.4;
+}
+.post-info2 > p + a, 
+.post-info2 .post-share {margin-top: 2.3rem;}
+.widget.text-center, 
+.donat-methods.text-center, 
+.bottom-bar2.text-center {text-align: initial !important;}
+.widget-inner {max-width: 100%;}
+.donat-methods {justify-content: initial;}
+.donat-methods > img {max-width: 40%;}
+.donat-methods > h5 + img {margin-left: 1.25rem;}
+.post-detail-info {padding-left: 7rem;}
+.post-info2-inner {max-width: 5.2rem;}
+.post-date2 > span {font-size: 2rem;}
+.pack-head > p + span {margin-top: 10px;}
+.pack-body {padding-top: 10px;}
+.event-meta {justify-content: center;}
+.event-meta > li:not(:first-child) {
+  padding-left: 1.5rem;
+  margin-left: 0;
+}
+.event-meta > li:not(:first-child)::before {display: none;}
+.urgent-donat-info {
+  padding: 0 1.5rem 1.5rem;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+.urgent-donat-info > * {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.urgent-donat-info-raised {
+  position: relative !important;
+  order: -1;
+  margin-bottom: 1.25rem;
+}
+.urgent-donat-meta > li {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.urgent-donat-meta > li:not(:first-child) {margin-left: 0;}
+.urgent-donat-info .urgent-donat-info-raised {
+  flex: 0 0 calc(100% + 3rem);
+  max-width: calc(100% + 3rem);
+  margin-left: -1.5rem;
+}
+.plyr-wrp.overlap155 {margin-top: -4.8rem;}
+.plyr-wrp > h3,
+.plyr-wrp.v2 h3 {padding: 1.5rem;}
+.about-wrap {margin-top: -1.875rem;}
+.social-links3 > a {font-size: .9375rem;}
+.social-links3 > a i {margin-right: 8px;}
+.social-links3 > a:not(:first-child) {margin-left: 1rem;}
+.widget ul:not(.cont-info-list2) li {font-size: 1rem;}
+.footer-data.v3 {margin-bottom: -2rem;}
+.newsletter-form {
+  padding-left: 0;
+  border: 0;
+}
+.newsletter-form > input {
+  width: 100%;
+  border: 2px solid rgba(255,255,255,.5);
+  padding: 1rem 1rem 1rem 4rem;
+}
+.newsletter-form button {
+  position: relative;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  margin-top: 10px;
+  width: 100%;
+}
+.newsletter-form > i {bottom: auto;}
+.newsletter-form > i {padding: 0 .9375rem;}
+.pt-250,
+.pt-260,
+.pt-280 {padding-top: 7.5rem;}
+.pb-250,
+.pb-260,
+.pb-280 {padding-bottom: 7.5rem;}
+ul.pagination > li.page-item:not(.prev):not(.next):not(.pg-rang) {width: 2.2rem;}
+ul.pagination > li.page-item {
+  line-height: 1.8rem;
+  font-size: .9375rem;
+}
+ul.pagination > li.page-item.pg-rang {width: 4rem;}
+ul.pagination > li.page-item.prev, 
+ul.pagination > li.page-item.next {
+  height: 2.7rem;
+  width: 2.7rem;
+  line-height: 2.7rem;
+}
+.donation-detail-info-wrap {margin-top: 0rem;}
+.course-detail-info-bottom .price {margin-top: 1rem;}
+.sermons-btns-wrap {padding: 1.25rem;}
+.sermon-video > a {
+  height: 4rem;
+  width: 4rem;
+  line-height: 4rem;
+  font-size: 1.25rem;
+}
+.cart-table {min-width: 180%;}
+.donation-detail-info-wrap {
+  max-width: 100%;
+  margin-left: 0;
+}
+
+
+
+}
+
+
+@media (max-width: 470px) {
+
+}
+
+
+@media (max-width: 430px) {
+.rsnp-mnu {right: -100%;max-width: 100%;}
+.rsnp-mnu.slidein {right: 0;}
+.pt-235 {padding-top: 7.5rem;}
+.pb-235 {padding-bottom: 7.5rem;}
+ul.time-list,
+.sponsor-list > li {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+ul.time-list + ul.time-list {margin-top: .5rem;}
+.time-box > span {font-size: 1rem;}
+.pillars-list > li,
+.time-list3 > li {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+.sec-title.left-icon .sec-title-inner,
+.sec-title.v2.left-icon .sec-title-inner {padding-left: 3.8rem;}
+.about-inner > h2, 
+.about-inner2 > h2, 
+.about-inner3 > h2, 
+.about-inner4 > h2, 
+.sec-title-inner > h2,
+.sec-title.left-icon .sec-title-inner > h2,
+.sec-title.v2.left-icon .sec-title-inner > h2,
+.page-title-inner > h1,
+.sermon-detail-info > h2, 
+.services-detail-info > h2, 
+.event-detail-info-inner h2,
+.cont-info-desc > h3 {font-size: 2rem;}
+.sec-title.left-icon .sec-title-inner > i,
+.sec-title.v2.left-icon .sec-title-inner > i {font-size: 2.5rem;}
+.time-list2 > li {
+  font-size: 1rem;
+  padding: 2rem 1.5rem;
+}
+.time-list2 > li span {font-size: 14px;}
+.learn-top-inner + .learn-top-inner {margin-top: 2rem;}
+.course-info2 > p {max-width: 100%;}
+.pillars-list2 > li {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.pillar-btn .thm-btn {width: auto;}
+.team-info2 {padding: 0 .9375rem 3rem;}
+.bottom-links {justify-content: center;}
+.bottom-links > li {font-size: .9375rem;}
+.learn-post + .learn-post {margin-top: 2.5rem;}
+.learn-post-wrap > div.row > div + div {margin-top: 2.5rem;}
+.pt-250,
+.pt-260,
+.pt-280 {padding-top: 6.5rem;}
+.pb-250,
+.pb-260,
+.pb-280 {padding-bottom: 6.5rem;}
+.post-info2 > h3 {font-size: 1.5rem;}
+.team-detail-info-inner {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.team-detail-info-inner + .team-detail-info-inner {padding: 1.5rem 0 0;}
+.event-detail-price-button > div {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.event-detail-price-button > div + div {margin-top: 1rem;}
+.cart-table {min-width: 230%;}
+.event-meta > li {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.event-meta > li:not(:first-child) {padding: 5px 0 0;}
+.post-meta2 > li {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.post-meta2 > li:not(:first-child) {margin: 5px 0 0;}
+
+
+}
+
+
+@media (max-width: 380px) {
+.course-box {align-items: initial;}
+.course-box > i {font-size: 2.8rem;}
+.course-box > i + .course-inner {
+  flex: 0 0 calc(100% - 2.8rem);
+  max-width: calc(100% - 2.8rem);
+}
+.time-box > span {font-size: 1.125rem;}
+.event-info {padding: 2rem;}
+.post-share {
+  margin-left: 0;
+  margin-bottom: 0;
+}
+.payment-method {padding: 2.5rem 2rem;}
+.donat-methods > img {
+  max-width: 100%;
+  margin: 10px 0 0 !important;
+}
+.bottom-links > li:not(:first-child) {
+  padding-left: 1rem;
+  margin-left: 1rem;
+}
+
+
+}
+
+
+@media (max-width: 325px) {
+.cont-info-list > li {font-size: 1.2rem;}
+.post-meta > li {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+.post-meta > li:not(:first-child) {padding: 5px 0 0;}
+.thm-btn {padding: .9375rem 1.8rem !important;}
+.urgent-donat-img > a.thm-btn {
+  min-width: 10rem;
+  padding: 14px 1.5rem !important;
+}
+.time-list2 > li {padding: 1.5rem 1rem;}
+.time-list3 > li {
+  flex: 0 0 100%;
+  max-width: 100%;
+  text-align: center;
+}
+.course-info3 > h3 {
+  font-size: 1.2rem;
+  line-height: 1.3;
+}
+.course-info3 > span + h3 {margin-top: 6px;}
+.course-info3, 
+.col-lg-4 .course-info3 {padding: 0 .9375rem 1rem;}
+.course-box3 > span, 
+.col-lg-4 .course-box3 > span {
+  right: .9375rem;
+  top: 1rem;
+}
+.event-info {padding: 1.5rem;}
+
+
+}
