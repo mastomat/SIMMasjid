@@ -1,4 +1,32 @@
 # CMS Masjid Codeigniter
+## Teknologi
+
+Teknologi yang digunakan:
+
+
+- [Codeigniter](https://www.codeigniter.com/) - Framework
+- [AdminLte3](https://adminlte.io/docs/3.2/) - Admin Theme
+- [Dropzone](https://docs.dropzone.dev/) - Galeri 
+- [Sweetalert](https://sweetalert2.github.io/) - Notifikasi 
+- [Datatable](https://datatables.net/) - Table 
+- [API JADWAL SOLAT DI HALAMAN HOME WEBSITE](https://api.myquran.com/v1/sholat/jadwal/1014/) - Jadwal Solat 
+- [API Tanggal Hijriah DI HALAMAN HOME WEBSITE](https://api.aladhan.com/v1/gToH?date=) - Hijriah 
+## Demo
+
+
+
+| Demo | link |
+| ------ | ------ |
+| Demo | [Demo](http://masjidfatimahzahro.com/) |
+
+## Contact Me
+
+
+
+| Contact | link |
+| ------ | ------ |
+| Telegram | [telegram](https://t.me/Ariskabri) |
+
 ## _Dashboard Admin_
 ![fatimazahro](https://user-images.githubusercontent.com/108508594/176905107-d2093422-b898-4fc6-8d29-7396a2c82182.PNG)
 ## _Galeri_
