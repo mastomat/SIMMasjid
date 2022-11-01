@@ -25,7 +25,7 @@ Teknologi yang digunakan:
 
 | Contact | link |
 | ------ | ------ |
-| Telegram | [telegram](https://t.me/Ariskabri) |
+| Telegram | [telegram](https://t.me/ProgrammerSyarie) |
 
 ## _Dashboard Admin_
 ![fatimazahro](https://user-images.githubusercontent.com/108508594/176905107-d2093422-b898-4fc6-8d29-7396a2c82182.PNG)
